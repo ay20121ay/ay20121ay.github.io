@@ -4,7 +4,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
-{"key": "蓝莓影视","name": "🌙阿月🌷","type": 1,"api": "https://lanmeiguojiang.com/mw.php/provide/vod/","playUrl": "json:https://lanmeiguojiang.com/al/lmjx.php/?url=","searchable": 1,"filterable": 1,"categories":[]},{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "蓝莓影视","name": "🌙阿月🌷","type": 1,"api": "https://lanmeiguojiang.com/mw.php/provide/vod/","playUrl": "json:https://lanmeiguojiang.com/al/lmjx.php/?url=","searchable": 1,"filterable": 1,"categories":[]},
 {"key":"多多2","name":"🐮牛多多","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"json:http://htp.behds.cn/hrjx.php?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"多多资源2","name":"🐠鱼多多","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","playUrl":"json:https://lanmeiguojiang.com/al/lmjx.php/?url=","searchable":1,"quickSearch":1},
 {"key":"多多资源","name":"🍀财多多️","type":1,"api":"http://ddzy.jiangxs.vip/api.php/provide/vod/from/duoduozy/","playUrl":"json:https://lanmeiguojiang.com/al/lmjx.php/?url=","searchable":1,"filterable":1,"categories":[]}, 
@@ -49,7 +49,7 @@
 	"filterable":1,
 	"jar":"https://agit.ai/ay2021/ay/raw/branch/master/1659139822.txt;md5;e88344eed0397c1210234aef9d6b4237"
 },
-
+ {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ekan_spider","name":"🐞Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
