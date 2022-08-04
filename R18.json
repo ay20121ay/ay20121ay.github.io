@@ -1,5 +1,5 @@
 {"sites":[
-  @东哥 {"key": "豆豆","name": "豆豆😍","type": 1,"api": "http://www.36717.info/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "豆豆","name": "豆豆😍","type": 1,"api": "http://www.36717.info/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"BD云","name":"百度🔞","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","playUrl":"https://jx.jxbdzyw.com/m3u8/?url="},
 {"key":"瞬间影视","name":"瞬间影视🔞","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"乐多资源","name":"乐多🔞","type":0,"api":"http://api.leduosj.com/inc/api.php","playUrl":"https://ldy.jx.cn/wp-api/ifr.php?vid=","categories":[]},
